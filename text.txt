@@ -1,7 +1,7 @@
 <html>
     <head>
         <body>
-            <h1> VERSIONAMENTO SENAI </h1>
+            <h1> VERSIONAMENTO </h1>
         </body>
     </head>
 </html>
